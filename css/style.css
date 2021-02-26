@@ -187,7 +187,8 @@ h2 {
 
 .section-showcase .section-inner .wrap .card-simple {
   width: 200px;
-  border-radius: 10px;
+/*   border-radius: 10px; */
+  border-top-radius: 10px;
   text-align: center;
   padding-bottom: 15px;
 }
